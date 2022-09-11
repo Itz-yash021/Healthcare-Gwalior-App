@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity_2">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:textSize="15sp"
+        android:gravity="center"
+        android:text="Apollo Spectra Hospitals\n
+        Address: 18, Road Kila Gate Road, near Sai Baba Mandir, Vikas Nagar, Gwalior, Madhya Pradesh 474002\n
+        Phone: 0751 245 4600\n\n"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textSize="15sp"
+        android:gravity="center"
+        android:text="Kalyan Memorial and KDJ Hospital\n
+        Address: Mall Rd, Baradari Chauraha, Chik Santar, Sardar Bazar, Morar, Gwalior, Madhya Pradesh 474006\n
+        Phone: 091712 88318\n\n"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textSize="15sp"
+        android:gravity="center"
+        android:text="Chirayu multispeciality hospital in Gwalior\n
+        Address: 245, Kailash Vihar Main Rd, City Center, Tulsi Vihar Colony, Gwalior, Madhya Pradesh 474011\n
+        Phone: 091745 19698\n\n"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textSize="15sp"
+        android:gravity="center"
+        android:text="BIMR HOSPITALS\n
+        Address: Surya Mandir Rd, Residency Rd, Mahaveer, Gwalior, Madhya Pradesh 474005\n
+        Phone: 099933 66513\n\n"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textSize="15sp"
+        android:gravity="center"
+        android:text="Global Speciality Hospital\n
+        Address: Gandhi Rd, behind HOTEL SITA Manor, Thatipur Gaon, Thatipur, Gwalior, Madhya Pradesh 474002\n
+        Phone: 0751 243 3710\n\n"/>
+
+</LinearLayout>
